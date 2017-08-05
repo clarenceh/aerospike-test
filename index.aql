@@ -1,0 +1,1 @@
+CREATE INDEX contact_firstname_idx on clarence.contact (first_name) STRING
